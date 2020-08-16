@@ -1,16 +1,21 @@
 _repo: Mewanee-The-Little-Indian-Boy_62935
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Hubbard, Charles D.
     gutenberg_agent_id: '52192'
     url: http://www.gutenberg.org/2009/agents/52192
+covers:
+- cover_type: archival
+  image_path: 62935-h/images/cover.jpg
 creator:
   author:
     agent_name: Wiley, Belle
     gutenberg_agent_id: '50026'
     url: http://www.gutenberg.org/2009/agents/50026
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62935#Mewanee-The-Little-Indian-Boy
 gutenberg_issued: '2020-08-15'
 gutenberg_type: Text
 identifiers:
